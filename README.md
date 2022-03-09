@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Juan José González and I'm a PHP developer with more than 10 years of experience. A long time ago, I put my focus on WordPress and WooCommerce and nowadays I'm specialized in them.
+
+### Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my website at [juagonala.com](https://juagonala.com).
